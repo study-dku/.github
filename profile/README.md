@@ -14,3 +14,8 @@
 | 3 | [로또](https://github.com/woowacourse-7th-study/java-lotto-6)|
 | 4 | [크리스마스 프로모션](https://github.com/woowacourse-7th-study/java-christmas-6) |
 | 최종 | [개발자 비상근무](https://github.com/woowacourse-7th-study/java-oncall-6) |
+
+## 7기
+| 주차 | 문제 |
+| :-: | :-: |
+| 최종 | [출석](https://github.com/woowacourse-7th-study/java-attendance-7)
