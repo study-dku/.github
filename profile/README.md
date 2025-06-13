@@ -1,4 +1,4 @@
-## BBB (bit-by-bit)
+## drop-the-bit
 
 | 이름 | 김준형 | 정규원 | 전호영 |
 | :-: | :-: | :-: | :-: |
@@ -7,7 +7,7 @@
 
 ## 스터디
 - [Effective Java](https://github.com/woowacourse-7th-study/effective-java)
-- [가상 면접 사례로 배우는 대규모 시스템 설계](#)
+- [가상 면접 사례로 배우는 대규모 시스템 설계](https://github.com/study-dku/system-design-interview)
 
 <br>
 
