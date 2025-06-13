@@ -1,17 +1,17 @@
-## drop-the-bit
+## member
 
 | 이름 | 김준형 | 정규원 | 전호영 |
 | :-: | :-: | :-: | :-: |
 | Github | <a href="https://github.com/jhzlo"><img src="https://avatars.githubusercontent.com/u/105791673?v=4" width="64" height="64"></a> | <a href="https://github.com/digitpic"><img src="https://avatars.githubusercontent.com/u/63178849?v=4" width="64" height="64"></a> | <a href="https://github.com/HoyeongJeon"><img src="https://avatars.githubusercontent.com/u/78394999?v=4" width="64" height="64"></a> |
 <br>
 
-## 스터디
+## study
 - [Effective Java](https://github.com/woowacourse-7th-study/effective-java)
 - [가상 면접 사례로 배우는 대규모 시스템 설계](https://github.com/study-dku/system-design-interview)
 
 <br>
 
-## 우아한테크코스 문제
+## woowacourse
 ### 3기
 | 주차 | 문제 |
 | :-: | :-: |
