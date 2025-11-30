@@ -7,7 +7,6 @@
 
 ## study
 - [Effective Java](https://github.com/woowacourse-7th-study/effective-java)
-- [가상 면접 사례로 배우는 대규모 시스템 설계](https://github.com/study-dku/system-design-interview)
 
 <br>
 
